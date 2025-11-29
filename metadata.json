@@ -1,0 +1,5 @@
+{
+  "name": "RetroVision AI",
+  "description": "A retro-styled TV simulator that streams real free-to-air channels, featuring an AI-powered TV guide that generates nostalgic program descriptions on the fly.",
+  "requestFramePermissions": []
+}
